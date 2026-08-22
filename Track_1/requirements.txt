@@ -1,0 +1,21 @@
+# PyTorch with CUDA 12.1 (GPU support)
+--extra-index-url https://download.pytorch.org/whl/cu121
+torch
+torchvision
+torchaudio
+
+# Deep Learning & NLP
+transformers
+datasets
+safetensors
+huggingface_hub
+arabert
+
+# LLM Pseudo-labeling (Gemini 3.6 Flash)
+google-generativeai
+
+# Core ML, Metrics & Utilities
+pandas
+numpy
+scikit-learn
+tqdm

@@ -1,0 +1,28 @@
+﻿# Python & Jupyter
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# Virtual Environments
+.env/
+.venv/
+env/
+venv/
+
+# Hugging Face Cache
+.cache/
+
+# Model Checkpoints & Safetensors 
+model/
+marbert_pseudo/
+arbert_pseudo/
+*.safetensors
+*.bin
+
+# Logits & Output Files
+*.npy
+checkpoint.json
+submission*.json
+
+data/
